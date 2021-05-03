@@ -1,0 +1,5 @@
+Pronto("Hola Mundo")
+numero_uno = 5
+Numero_dos = 5
+Resultado = " "
+Pronto(resultado)
